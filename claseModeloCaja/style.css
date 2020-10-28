@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    border: 10px solid gray;
+    width: 100%;
+    height: 500px;
+}
+
+.main_nav {
+    background-color: turquoise;
+    padding: 10px;
+}
+
+.main_nav li {
+    list-style: none;
+    display: inline-block;
+    size: 20px;
+}
+
+.main_nav__item a {
+    text-decoration: none;
+    margin-left: 0px;
+    padding-right: 10px;
+}
+
+.main_nav__item a:hover {
+    color: blue;
+}
