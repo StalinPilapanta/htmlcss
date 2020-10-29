@@ -17,3 +17,7 @@ https://www.verexif.com/
 
 
 - https://unsplash.com/
+
+# Metodologia BEM
+
+Bloque -- Elemento -- Modificador
